@@ -1,3 +1,2 @@
-Instructions: Open the email template file in your web browser to view the Paperless Post Shop Abandoned Cart email [PaperlessPost_Shop_Abandoned_Cart_Email_Template](https://raw.githack.com/Hoza98/Email-Templates/refs/heads/master/Email%20Templates/Paperless%20Post/Paperless_Post%20Shop%20Abandoned%20Cart.html)
-Instructions: Open the email template file in your web browser to view the Paperless Post Shop Abandoned Cart email 
+[PaperlessPost_Shop_Abandoned_Cart_Email_Template](https://raw.githack.com/Hoza98/Email-Templates/refs/heads/master/Email%20Templates/Paperless%20Post/Paperless_Post%20Shop%20Abandoned%20Cart.html) 
 [PaperlessPost_Incomplete_Invitation_Abandoned_Cart_Email_Template](https://raw.githack.com/Hoza98/Email-Templates/refs/heads/master/Email%20Templates/Paperless%20Post/Abandoned%20Invitation%20%E2%80%93%20Engagement%20Party%20%E2%80%93%20Reminder%201.html)
